@@ -26,9 +26,9 @@ Get the latest signed Android APK directly from the [Releases](https://github.co
 
 <img width="250" alt="672c643b-4230-4bab-af77-fa5a99ba892a" src="https://github.com/user-attachments/assets/ae083428-0f5d-4a0e-99c6-763107a5ae25" />
 
-<img width="280" alt="db5862bc-7e71-47d6-a442-8d1351c3abc8" src="https://github.com/user-attachments/assets/4f751589-6487-423a-ad36-ee3fd07da5c4" />
+<img width="250" alt="db5862bc-7e71-47d6-a442-8d1351c3abc8" src="https://github.com/user-attachments/assets/4f751589-6487-423a-ad36-ee3fd07da5c4" />
 
-<img width="280" alt="82816322-eeaf-48af-8f23-c5154ff37838" src="https://github.com/user-attachments/assets/d33ccd5e-b050-4431-b16b-90294fcfae58" />
+<img width="250" alt="82816322-eeaf-48af-8f23-c5154ff37838" src="https://github.com/user-attachments/assets/d33ccd5e-b050-4431-b16b-90294fcfae58" />
 
 
 * **Multi-Folder Tree Stacking:** Open multiple folders side-by-side and browse nested subfolders without flattening your directory structure.
