@@ -1,6 +1,6 @@
-# glory-player
-Intuitive Android Audio Player and Voice Recorder
 # Glory Player
+Intuitive Android Audio Player and Voice Recorder
+
 
 An offline, privacy-focused folder-tree audio player and voice recorder for Android. Built for people who keep their own local audio files and want zero tracking, zero ads, and zero cloud accounts.
 
