@@ -13,9 +13,9 @@ Get the latest signed Android APK directly from the [Releases](https://github.co
 
 ## Features
 
-<img width="250" height="941" alt="71a3daef-0446-42cf-9687-b3275ef5120d" src="https://github.com/user-attachments/assets/f78f11a9-7571-425a-9794-2a1de5f7a40e" />
+<img width="250" alt="71a3daef-0446-42cf-9687-b3275ef5120d" src="https://github.com/user-attachments/assets/f78f11a9-7571-425a-9794-2a1de5f7a40e" />
 
-<img width="250" height="944" alt="7e5431c5-039a-433a-9c50-62f54f3380ce" src="https://github.com/user-attachments/assets/a5ec7af0-1ab3-4b81-98f7-b24fdf3c8d26" />
+<img width="250" alt="7e5431c5-039a-433a-9c50-62f54f3380ce" src="https://github.com/user-attachments/assets/a5ec7af0-1ab3-4b81-98f7-b24fdf3c8d26" />
 
 
 <img width="250" alt="e4887f75-efa2-47c5-bbe7-e55e9223eadb" src="https://github.com/user-attachments/assets/4f4d7f93-59e4-4cd6-a107-3dd1b9804666" />
