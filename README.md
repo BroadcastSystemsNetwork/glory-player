@@ -12,19 +12,19 @@ Get the latest signed Android APK directly from the [Releases](https://github.co
 * **SHA-256 Checksum:** `FF34BE07F83163EAE2858A2D0A9B14F8F8E7C505F44E1E63612603859FE00198`
 
 ## Features
-<img width="281" alt="f0df89db-4d02-40ee-8034-66395b5de2e8" src="https://github.com/user-attachments/assets/fc77cb6e-ace1-40e3-b64f-9c18c73d5648" />
+<img width="250" alt="f0df89db-4d02-40ee-8034-66395b5de2e8" src="https://github.com/user-attachments/assets/fc77cb6e-ace1-40e3-b64f-9c18c73d5648" />
 
-<img width="280" alt="b65a1db8-1ab3-4225-9a78-68d29854cc5e" src="https://github.com/user-attachments/assets/176da175-bbcf-4f03-8697-382af9a705b3" />
+<img width="250" alt="b65a1db8-1ab3-4225-9a78-68d29854cc5e" src="https://github.com/user-attachments/assets/176da175-bbcf-4f03-8697-382af9a705b3" />
 
-<img width="280" alt="e4887f75-efa2-47c5-bbe7-e55e9223eadb" src="https://github.com/user-attachments/assets/4f4d7f93-59e4-4cd6-a107-3dd1b9804666" />
+<img width="250" alt="e4887f75-efa2-47c5-bbe7-e55e9223eadb" src="https://github.com/user-attachments/assets/4f4d7f93-59e4-4cd6-a107-3dd1b9804666" />
 
-<img width="280" alt="272044dd-5b3b-4b90-9c40-29a29e113110" src="https://github.com/user-attachments/assets/9f694f8c-4644-4947-a59f-3fbb0641fc6d" />
+<img width="250" alt="272044dd-5b3b-4b90-9c40-29a29e113110" src="https://github.com/user-attachments/assets/9f694f8c-4644-4947-a59f-3fbb0641fc6d" />
 
-<img width="280" alt="3ae9e806-2baf-408d-bf5a-e15351234b9a" src="https://github.com/user-attachments/assets/82f49326-4bf6-4d86-b0d9-3691d14ec2a7" />
+<img width="250" alt="3ae9e806-2baf-408d-bf5a-e15351234b9a" src="https://github.com/user-attachments/assets/82f49326-4bf6-4d86-b0d9-3691d14ec2a7" />
 
-<img width="280" alt="5876945c-605b-4b5a-9e16-1bb0dcebd070" src="https://github.com/user-attachments/assets/d9470049-7b20-4421-89fe-0c7c764295aa" />
+<img width="250" alt="5876945c-605b-4b5a-9e16-1bb0dcebd070" src="https://github.com/user-attachments/assets/d9470049-7b20-4421-89fe-0c7c764295aa" />
 
-<img width="280" alt="672c643b-4230-4bab-af77-fa5a99ba892a" src="https://github.com/user-attachments/assets/ae083428-0f5d-4a0e-99c6-763107a5ae25" />
+<img width="250" alt="672c643b-4230-4bab-af77-fa5a99ba892a" src="https://github.com/user-attachments/assets/ae083428-0f5d-4a0e-99c6-763107a5ae25" />
 
 <img width="280" alt="db5862bc-7e71-47d6-a442-8d1351c3abc8" src="https://github.com/user-attachments/assets/4f751589-6487-423a-ad36-ee3fd07da5c4" />
 
