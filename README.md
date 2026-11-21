@@ -12,9 +12,11 @@ Get the latest signed Android APK directly from the [Releases](https://github.co
 * **SHA-256 Checksum:** `FF34BE07F83163EAE2858A2D0A9B14F8F8E7C505F44E1E63612603859FE00198`
 
 ## Features
-<img width="250" alt="f0df89db-4d02-40ee-8034-66395b5de2e8" src="https://github.com/user-attachments/assets/fc77cb6e-ace1-40e3-b64f-9c18c73d5648" />
 
-<img width="250" alt="b65a1db8-1ab3-4225-9a78-68d29854cc5e" src="https://github.com/user-attachments/assets/176da175-bbcf-4f03-8697-382af9a705b3" />
+<img width="250" height="941" alt="71a3daef-0446-42cf-9687-b3275ef5120d" src="https://github.com/user-attachments/assets/f78f11a9-7571-425a-9794-2a1de5f7a40e" />
+
+<img width="250" height="944" alt="7e5431c5-039a-433a-9c50-62f54f3380ce" src="https://github.com/user-attachments/assets/a5ec7af0-1ab3-4b81-98f7-b24fdf3c8d26" />
+
 
 <img width="250" alt="e4887f75-efa2-47c5-bbe7-e55e9223eadb" src="https://github.com/user-attachments/assets/4f4d7f93-59e4-4cd6-a107-3dd1b9804666" />
 
