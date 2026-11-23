@@ -8,7 +8,7 @@ An offline, privacy-focused folder-tree audio player and voice recorder for Andr
 
 Get the latest signed Android APK directly from the [Releases](https://github.com/BroadcastSystemsNetwork/glory-player/releases/latest) page:
 
-* **Direct Download:** [app-release.apk](https://github.com/BroadcastSystemsNetwork/glory-player/releases/download/v1.0.2/app-release.apk)
+* **Direct Download:** [Glory.Player.v1.0.2.apk](https://github.com/BroadcastSystemsNetwork/glory-player/releases/download/v1.0.2/app-release.apk)
 * **SHA-256 Checksum:** `FF34BE07F83163EAE2858A2D0A9B14F8F8E7C505F44E1E63612603859FE00198`
 
 ## Features
