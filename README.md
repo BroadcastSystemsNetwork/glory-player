@@ -1,5 +1,6 @@
 # Glory Player
-Intuitive Android Audio Player and Voice Recorder
+Intuitive Android Audio Player and Voice Recorder.
+
 The purpose is to publish a very good, intuitive, and useful app. My intent is to make such an app available for people -- like myself -- who are dissatisfied with the music players that are available. I searched a long time before settling for SicMu, and it was never quite what i wanted.
 
 
