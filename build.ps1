@@ -1,5 +1,5 @@
-cd C:\GloryPlayerApp
-copy "C:\Users\ChauncyGardiner\Desktop\Glory Player\Glory Player.html" "C:\GloryPlayerApp\www\index.html" -Force
+﻿cd C:\GloryPlayerApp
+# Removed deleted Desktop draft copy; www\index.html is now source of truth
 
 $javaCode = @'
 package com.bsn.gloryplayer;
@@ -277,7 +277,7 @@ if (window.AndroidFS && !window.showDirectoryPicker) {
 
 $htmlPath = "C:\GloryPlayerApp\www\index.html"
 $html = Get-Content -Path $htmlPath -Raw
-$html = $html -replace "(<script>)", "$shim`r`n`$1"
+if ($html -notmatch "window\.__resolveAndroidDir") { $html = $html -replace "(<script>)", "$shim`r`n`$1" }
 Set-Content -Path $htmlPath -Value $html -Encoding UTF8
 
 npx cap sync android
